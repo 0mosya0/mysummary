@@ -7,6 +7,18 @@ body {
   color: #444444;
 }
 
+.button {
+  padding: 6px 20px;
+  display: inline-block;
+  vertical-align: baseline;
+  text-decoration: none;
+  text-transform: uppercase;
+  border-radius: 4px;
+  background-color: #288be6;
+  color: #ffffff;
+}
+
+
 h1 {
   width: 255px;
   margin: 0 auto 8px;
