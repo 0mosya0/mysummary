@@ -40,6 +40,10 @@ h2 {
   padding: 0 20px;
 }
 
+.logo-image {
+  float: left;
+}
+
 .site-header {
   min-width: 550px;
   height: 186px;
