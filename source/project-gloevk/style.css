@@ -7,17 +7,9 @@ body {
   color: #444444;
 }
 
-.button {
-  padding: 6px 20px;
-  display: inline-block;
-  vertical-align: baseline;
-  text-decoration: none;
-  text-transform: uppercase;
-  border-radius: 4px;
-  background-color: #288be6;
-  color: #ffffff;
+.logo-image {
+  float: left;
 }
-
 
 h1 {
   width: 255px;
@@ -38,10 +30,6 @@ h2 {
   width: 510px;
   margin: 0 auto;
   padding: 0 20px;
-}
-
-.logo-image {
-  float: left;
 }
 
 .site-header {
